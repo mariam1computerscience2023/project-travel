@@ -24,6 +24,7 @@ form .btn-bg:hover ,nav .btn-bg:hover ,section .btn-bg:hover ,.carousel-caption 
 .back-color{ background-color: rgba(120, 113, 155, 0.592); }
 .social-icon .icon-color{  color: #E0CCBE; font-size: 65px;}
 .social-icon .icon-color:hover{ color: #fff;}
+.social-icon{margin-top: 30px;}
 .zzz{
     z-index: 11;
     opacity: 0.9;
